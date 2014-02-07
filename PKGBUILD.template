@@ -9,7 +9,7 @@ url=('http://en.wikiquote.org/wiki/%REAL_SHOW%')
 depends=('fortune-mod')
 makedepends=('fortune-mod' 'make' 'coreutils' 'sed' 'grep' 'wikiquote-fortune')
 source=("https://github.com/maandree/wikiquote-fortune-collection/archive/${_ver}.tar.gz")
-md5sums=(7bf5057354bbbb77531585e1cfa25968)
+md5sums=(SKIP)
 
 
 build()
