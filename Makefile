@@ -14,6 +14,8 @@ all:
 	    strfile quotes && \
 	    mv quotes.dat $${show}.dat && \
 	    mv quotes $${show} && \
+	    realshow="$$(echo "$${realshow}" | sed -e 's:\&:\\\&:g')" && \
+	    real_show="$$(echo "$${real_show}" | sed -e 's:\&:\\\&:g')" && \
 	    for script in $(SCRIPTS); do \
 	        cp ../../$${script}.template $${script} && \
 	        sed -i "s/%UNIXSHOW%/$${show}/g" $${script} && \
