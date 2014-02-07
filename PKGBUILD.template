@@ -1,7 +1,7 @@
 pkgname=fortune-mod-%UNIXSHOW%
 pkgver=%VERSION%
 pkgrel=1
-_ver=2
+_ver=3
 pkgdesc="Fortune quotes from %REALSHOW%"
 arch=('any')
 license=('custom:cc-sa-3.0')
@@ -9,7 +9,7 @@ url=("http://en.wikiquote.org/wiki/%REAL_SHOW%")
 depends=('fortune-mod')
 makedepends=('fortune-mod' 'make' 'coreutils' 'sed' 'grep' 'wikiquote-fortune>=1.2')
 source=("https://github.com/maandree/wikiquote-fortune-collection/archive/${_ver}.tar.gz")
-md5sums=(4d80c185eb7114b9f310325d3864dc5f)
+md5sums=(SKIP)
 
 
 build()
@@ -21,7 +21,6 @@ build()
 package()
 {
     cd "${srcdir}/wikiquote-fortune-collection-${_ver}"
-    make SHOWS=%UNIXSHOW% SCRIPTS=
     cd quotes/%UNIXSHOW%
     install -dm755 -- "${pkgdir}/usr/share/fortune"
     install -m644 -- %UNIXSHOW% %UNIXSHOW%.dat "${pkgdir}/usr/share/fortune"

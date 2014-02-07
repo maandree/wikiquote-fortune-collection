@@ -1,0 +1,40 @@
+# -*- python -*-
+# Copying and distribution of this file, with or without modification,
+# are permitted in any medium without royalty provided the copyright
+# notice and this notice are preserved.  This file is offered as-is,
+# without any warranty.  [GNUAllPermissive]
+from dragonsuite import *
+
+_ver = '3'
+pkgname = 'fortune-mod-%UNIXSHOW%'
+pkgver = '%VERSION%'
+pkgdesc = "Fortune quotes from %REALSHOW%"
+upstream = "http://en.wikiquote.org/wiki/%REAL_SHOW%"
+arch = ['any']
+freedom = SOFTWARE | MEDIA
+license = ['CC-by-sa-3.0']
+private = SUPPORTED
+extension = 'fortune-mod'
+depends = []
+makedepends = ['fortune-mod', 'make', 'coreutils', 'sed', 'grep', 'wikiquote-fortune>=1.2']
+source = ["https://github.com/maandree/wikiquote-fortune-collection/archive/%s.tar.gz" % _ver]
+sha3sums = [None]
+
+_prefix = lambda private : '/usr' if not private else path('~/.local')
+
+
+def ride(private):
+    execute(['fortune', '%UNIXSHOW%'])
+
+
+def build(startdir, srcdir, pkgdir, private)
+    cd("%s/wikiquote-fortune-collection-%s" % (srcdir, _ver))
+    make('SHOWS=%UNIXSHOW%', 'SCRIPTS=')
+
+
+def package(startdir, srcdir, pkgdir, private)
+    cd("%s/wikiquote-fortune-collection-%s" % (srcdir, _ver))
+    cd('quotes/%UNIXSHOW%')
+    _dir = pkgdir + _prefix(private) + '/share/fortune'
+    install(['%UNIXSHOW%', '%UNIXSHOW%.dat'], _dir, parents = True, mode = 0o644)
+

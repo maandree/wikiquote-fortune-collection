@@ -1,5 +1,5 @@
 SHOWS = $(shell cat shows | cut -f 1)
-SCRIPTS = PKGBUILD
+SCRIPTS = PKGBUILD scroll
 
 
 .PHONY: all
@@ -22,6 +22,9 @@ all:
 	        sed -i "s/%REALSHOW%/$${realshow}/g" $${script} && \
 	        sed -i "s/%REAL_SHOW%/$${real_show}/g" $${script} && \
 	        sed -i "s/%VERSION%/$$(cat version)/g" $${script} || exit 1; \
+	        if [ $${script} = scroll ]; then \
+	            mv $${script} $${show}.scroll || exit 1; \
+	        fi; \
 	    done && \
 	    cd ../.. || exit 1; \
 	done
