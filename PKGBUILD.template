@@ -22,6 +22,7 @@ package()
 {
     cd "${srcdir}/wikiquote-fortune-collection-${_ver}"
     make SHOWS=%UNIXSHOW% SCRIPTS=
+    cd quotes/%UNIXSHOW%
     install -dm755 -- "${pkgdir}/usr/share/fortune"
     install -m644 -- %UNIXSHOW% %UNIXSHOW%.dat "${pkgdir}/usr/share/fortune"
 }
