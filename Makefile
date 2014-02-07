@@ -23,7 +23,7 @@ all:
 	        sed -i "s/%REAL_SHOW%/$${real_show}/g" $${script} && \
 	        sed -i "s/%VERSION%/$$(cat version)/g" $${script} || exit 1; \
 	        if [ $${script} = scroll ]; then \
-	            mv $${script} $${show}.scroll || exit 1; \
+	            mv $${script} fortune-mod-$${show}.scroll || exit 1; \
 	        fi; \
 	    done && \
 	    cd ../.. || exit 1; \

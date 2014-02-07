@@ -18,7 +18,7 @@ extension = 'fortune-mod'
 depends = []
 makedepends = ['fortune-mod', 'make', 'coreutils', 'sed', 'grep', 'wikiquote-fortune>=1.2']
 source = ["https://github.com/maandree/wikiquote-fortune-collection/archive/%s.tar.gz" % _ver]
-sha3sums = ['C5F364F52588DC2515C3B08F64326AEBB7A03E487CDC3F9C1165236C21DB3A74D0D07DF5881A458B7E1D8D6F706386AFD6A2AC54E9E2BB9B8F0DC683CE8069BCC0C8DA412D32AC89']
+sha3sums = [None]
 
 _prefix = lambda private : '/usr' if not private else path('~/.local')
 
