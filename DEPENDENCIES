@@ -1,0 +1,12 @@
+EXTENSION TO:
+
+	fortune-mod
+
+
+MAKE DEPENDENCIES:
+
+	wikiquote-fortune
+	make
+	coreutils
+	grep
+
