@@ -16,10 +16,10 @@ all:
 	    mv quotes $${show} && \
 	    for script in $(SCRIPTS); do \
 	        cp ../../$${script}.template $${script} && \
-	        sed -i "s:%UNIXSHOW%:$${show}:g" $${script} && \
-	        sed -i "s:%REALSHOW%:$${realshow}:g" $${script} && \
-	        sed -i "s:%REAL_SHOW%:$${real_show}:g" $${script} && \
-	        sed -i "s:%VERSION%:$$(cat version):g" $${script} || exit 1; \
+	        sed -i "s/%UNIXSHOW%/$${show}/g" $${script} && \
+	        sed -i "s/%REALSHOW%/$${realshow}/g" $${script} && \
+	        sed -i "s/%REAL_SHOW%/$${real_show}/g" $${script} && \
+	        sed -i "s/%VERSION%/$$(cat version)/g" $${script} || exit 1; \
 	    done && \
 	    cd ../.. || exit 1; \
 	done
