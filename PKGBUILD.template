@@ -1,15 +1,15 @@
 pkgname=fortune-mod-%UNIXSHOW%
 pkgver=%VERSION%
-pkgrel=2
-_ver=1
+pkgrel=1
+_ver=2
 pkgdesc="Fortune quotes from %REALSHOW%"
 arch=('any')
 license=('custom:cc-sa-3.0')
 url=('http://en.wikiquote.org/wiki/%REAL_SHOW%')
 depends=('fortune-mod')
-makedepends=('fortune-mod' 'make' 'coreutils' 'sed' 'grep' 'wikiquote-fortune')
+makedepends=('fortune-mod' 'make' 'coreutils' 'sed' 'grep' 'wikiquote-fortune>=1.2')
 source=("https://github.com/maandree/wikiquote-fortune-collection/archive/${_ver}.tar.gz")
-md5sums=(a6d0c25596e37e3f5b30755f53416ac3)
+md5sums=(SKIP)
 
 
 build()
