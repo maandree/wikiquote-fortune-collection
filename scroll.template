@@ -5,7 +5,7 @@
 # without any warranty.  [GNUAllPermissive]
 from dragonsuite import *
 
-_ver = '3'
+_ver = '4'
 pkgname = 'fortune-mod-%UNIXSHOW%'
 pkgver = '%VERSION%'
 pkgdesc = "Fortune quotes from %REALSHOW%"
@@ -16,9 +16,9 @@ license = ['CC-by-sa-3.0']
 private = SUPPORTED
 extension = 'fortune-mod'
 depends = []
-makedepends = ['fortune-mod', 'make', 'coreutils', 'sed', 'grep', 'wikiquote-fortune>=1.2']
+makedepends = ['fortune-mod', 'make', 'coreutils', 'sed', 'grep', 'wikiquote-fortune>=1.3']
 source = ["https://github.com/maandree/wikiquote-fortune-collection/archive/%s.tar.gz" % _ver]
-sha3sums = ['7A0BCDF1E26B262AA0B408ECBB9474F8087E6B84CE5FDD7CCCB988F57404D87DC3049806160690D55F304E030CB27EC187E6DAFE8A11815362C2C71144D84E6E98ECCC7F5927A1AA']
+sha3sums = ['199ECA68D07F46EFA1B3671FD7BF8D24C3AFE3E894C0108C17895832ADC8FB0D96C27CC614747F537F4991506B891CD288D55F56C2B4BC2BA07051881903E2A866B8BC0238D19284']
 
 _prefix = lambda private : '/usr' if not private else path('~/.local')
 
