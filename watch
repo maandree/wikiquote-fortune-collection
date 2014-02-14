@@ -1,0 +1,93 @@
+#!/usr/bin/env bash
+
+# Copying and distribution of this file, with or without modification,
+# are permitted in any medium without royalty provided the copyright
+# notice and this notice are preserved.  This file is offered as-is,
+# without any warranty.
+# 
+# [GNU All Premissive License]
+
+# I use this script automatically once a
+# day and my RSS reader will notify me
+# when there are updates on a show's entry
+# on Wikiquotes.
+
+cd "${BASH_SOURCE%/*}"
+
+mkdir -p _/watch
+cp shows _/watch
+cd _/watch
+
+for show in $(cat shows | cut -f 1); do
+    # In subshell
+    (
+	# Move into directory for the show
+	mkdir -p quotes/$show
+	cd quotes/$show
+	
+	# Store old quotes
+	if [ -f quotes ]; then
+	    mv quotes quotes.old
+	elif [ -f ../../../../$show ]; then
+	    cp ../../../../$show quotes.old
+	fi
+	
+	# Store old version
+	if [ -f version ]; then
+	    mv version version.old
+	elif [ -f ../../../../quotes ]; then
+	    cp ../../../../version version.old
+	fi
+	
+	error=
+	title="$(cat ../../shows | grep "^$show	" | cut -f 2)"
+	
+	# Get new version
+	if wikiquote-fortune "$title"; then
+	    if [ $(du --bytes quotes | cut -f 1) = 0 ]; then
+		error="fortune-mod-$show (empty quotes file error)"
+	    elif [ $(du --bytes version | cut -f 1) = 0 ]; then
+		error="fortune-mod-$show (empty version file error)"
+	    elif [ ! -f quotes.old ]; then
+		# Report new should
+	        echo "fortune-mod-$show (new show)"
+	        echo "($title)"
+	        echo
+	    elif [ ! "$(sha1sum < quotes.old)" = "$(sha1sum < quotes)" ]; then
+		# Report update summary
+		diff="$(diff -aur quotes.old quotes)"
+		diff_p=$(( $(echo "$diff" | grep '^\+' | wc -l) - 1 ))
+		diff_m=$(( $(echo "$diff" | grep '^\-' | wc -l) - 1 ))
+		diff_e=$(( $(cat quotes.old | wc -l) - $diff_m ))
+	        echo "fortune-mod-$show"
+	        echo "($title)"
+		echo "version: $(cat version.old) --> $(cat version)"
+	        echo "diff count: +${diff_p} -${diff_m} =${diff_e}"
+	        echo
+	    fi
+	else
+	    error="fortune-mod-$show (wikiquote-fortune invoke error)"
+	fi
+	
+	if [ -n "$error" ]; then
+	    # Report failure
+	    if [ ! -f error ]; then
+		echo "$error"
+		echo
+		touch error
+	    fi
+	    
+	    # Revert to old files
+	    if [ -f version.old ]; then
+		mv version{.old,}
+	    fi
+	    if [ -f quotes.old ]; then
+		mv quotes{.old,}
+	    fi
+	elif [ -f error ]; then
+	    # Store that no error occured
+	    unlink error
+	fi
+    )
+done
+
