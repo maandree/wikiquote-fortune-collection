@@ -30,6 +30,15 @@ all:
 	done
 
 
+.PHONY: archive
+archive:
+	for show in $(SHOWS); do \
+	    git rm archive/$${show}.* && \
+	    cp quotes/$${show}/$${show} archive/$${show}.$$(cat quotes/$${show}/version) && \
+	    git add archive/$${show}.$$(cat quotes/$${show}/version) || exit 1; \
+	done
+
+
 .PHONY: clean
 clean:
 	-rm -r -- $(foreach S, $(SHOWS), quotes/$(S))
