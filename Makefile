@@ -39,6 +39,15 @@ archive:
 	done
 
 
+.PHONY: makepkg-install
+makepkg-install:
+	for show in $(SHOWS); do \
+	    cd quotes/$${show} && \
+	    makepkg --install && \
+	    cd ../.. || exit 1; \
+	done
+
+
 .PHONY: clean
 clean:
 	-rm -r -- $(foreach S, $(SHOWS), quotes/$(S))
