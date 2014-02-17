@@ -48,6 +48,21 @@ makepkg-install:
 	done
 
 
+.PHONY: makepkg-source
+makepkg-source:
+	for show in $(SHOWS); do \
+	    cd quotes/$${show} && \
+	    makepkg --source && \
+	    cd ../.. || exit 1; \
+	done
+
+
+.PHONY: aur-upload
+aur-upload:
+	burp -u $(USER) -c games \
+	$(foreach S,$(SHOWS),quotes/$(S)/fortune-mod-$(S)-$(shell cat quotes/$(S)/version)-1.src.tar.gz)
+
+
 .PHONY: clean
 clean:
 	-rm -r -- $(foreach S, $(SHOWS), quotes/$(S))
