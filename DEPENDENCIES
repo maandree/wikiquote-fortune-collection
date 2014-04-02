@@ -5,7 +5,7 @@ EXTENSION TO:
 
 MAKE DEPENDENCIES:
 
-	wikiquote-fortune>=1.2
+	wikiquote-fortune>=1.4
 	make
 	coreutils
 	grep
