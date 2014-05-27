@@ -49,10 +49,13 @@ makepkg-install:
 
 
 .PHONY: makepkg-source
-makepkg-source:
+makepkg-source: mkaurball
+
+.PHONY: mkaurball
+mkaurball:
 	for show in $(SHOWS); do \
 	    cd quotes/$${show} && \
-	    makepkg --source && \
+	    mkaurball && \
 	    cd ../.. || exit 1; \
 	done
 
