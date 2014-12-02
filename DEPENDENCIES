@@ -6,7 +6,9 @@ EXTENSION TO:
 MAKE DEPENDENCIES:
 
 	wikiquote-fortune>=1.4
+	fortune-mod
 	make
 	coreutils
 	grep
+	sed
 
