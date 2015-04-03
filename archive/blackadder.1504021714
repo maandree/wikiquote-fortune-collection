@@ -275,10 +275,6 @@ Blackadder: Yes. To you, Baldrick, the Renaissance was just something that happe
 
 	-- Blackadder - Head
 %
-Blackadder: Right, good morning team. My name is Edmund Blackadder, and I'm the new minister in charge of religous genocide. Now, if you play straight with me you'll find me a considerate employer, but cross me and you'll soon discover that under this playful, boyish exterior beats the heart of a ruthless...sadist...maniac!
-
-	-- Blackadder - Head
-%
 Blackadder: [seeing Percy's abnormally wide new neckruff] You look like a bird who's swallowed a plate.
 Percy: It's the latest fashion, actually. And as a matter of fact, it makes me look rather sexy!
 Blackadder: To another plate-swallowing bird, perhaps. If it was blind and hadn't had it in months.
@@ -299,6 +295,28 @@ Blackadder: In which case, Percy, you must have the most fashionable brain in Lo
 
 	-- Blackadder - Head
 %
+Blackadder: Right, good morning team. My name is Edmund Blackadder, and I'm the new Minister in Charge of Religious Genocide. Now, if you play straight with me you'll find me a considerate employer, but cross me and you'll soon discover that under this playful, boyish exterior beats the heart of a ruthless...sadist...maniac!
+
+	-- Blackadder - Head
+%
+Blackadder: Right, Baldrick, is that all clear?
+Baldrick: Yes, umm... I've killed someone I shouldn't have killed, and now you want me to put a lady on my head and talk to his old bag!
+Blackadder: [annoyed] No, I want you to put a bag on your head and talk to his old lady. [puts the bag on him]
+Baldrick: Why? Why do I want a bag on my head?
+Blackadder: In order, ning-com-poop, that she should believe that you're her husband!
+Blackadder: Why, did he used to wear a bag on his head?
+Ploppy: Young Ploppy here has a point, my lord. Lord Farrow never wore a bag; he was an old-fashioned sort of a gent.
+Blackadder: Look--
+Percy: Well, yes, my lord. I mean, I hadn't meant to mention it, but I have been wondering all along why you should think that Baldrick with a bag on his head is going to be a dead ringer for Lord Farrow, because he's not!
+Blackadder: [crossly] Look, cretins, the bag is there in order to obscure Baldrick's own features, and many might think, incidentally, that that would be reason enough for him to wear it! Before I bring in Lady Farrow, I shall explain to her, inventing some cunningly plausible excuse that her husband has taken to wearing a bag! She can then chat to Baldrick, imagining him to be the man she married, and the Queen need never know of my little miscalculation.
+Ploppy: Why, my lord, that is a brilliant plan!
+Percy: Foolproof!
+Blackadder: You're very kind.
+Ploppy: Although there is something lurking at the back of my head that bothers me...
+Blackadder: It's probably a flea.
+
+	-- Blackadder - Head
+%
 [Queenie wishes to see Lord Farrow, who has supposedly been executed]
 Blackadder: Percy, this is a very difficult situation.
 Percy: Yes, my lord.
@@ -314,11 +332,17 @@ Blackadder: But that's where the Queen's gone! If she sees his head on a spike s
 
 	-- Blackadder - Head
 %
-Blackadder: Look at this, what is it?
-Baldrick: I'm surprised you've forgotten my lord.
+Blackadder: Bloody explorers. They ponce off to Mumbo-Jumbo Land and come home with a tropical disease, a suntan and a bag of brown lumpy things, and Bob's-your-uncle, everyone's got a picture of them in the lavatory! I mean, what about the people that do all the work?
+Baldrick: The servants?
+Blackadder: No, me! I'm the people who do all the work! I mean, look at this! [holds up a potato] What is it?
+Baldrick: I'm surprised you've forgotten, my lord.
 Blackadder: I haven't forgotten, it's a rhetorical question.
 Baldrick: Nah, it's a potato.
 Blackadder: To you, it's a potato. To me, it's a potato. But to Sir Walter bloody Raleigh, it's fine carriages, luxury estates and as many girls as his tongue can cope with! He's making a fortune out of the things: people are smoking them, building houses out of them... they'll be eating them next!
+Baldrick: Stranger things have happened, my lord.
+Blackadder: [dismissively] Oh, exactly.
+Baldrick: That horse becoming Pope...
+Blackadder: [pauses in surprise] What?
 
 	-- Blackadder - Potato
 %
@@ -335,6 +359,11 @@ Blackadder: [to Melchett] You utter creep.
 
 	-- Blackadder - Potato
 %
+[Preparing to meet Sir Walter Raleigh]
+Queenie: It's him! Oh God, do I look absolutely divine and regal, and yet at the same time very pretty and rather accessible?
+
+	-- Blackadder - Potato
+%
 Captain Rum: Ah, "Courtiers to the Queen"! You're nothing but lapdogs to a slip of a girl!
 Blackadder: Better a "lapdog to a slip of a girl" than a... GIT!
 
@@ -344,6 +373,8 @@ Captain Rum: You have a woman's legs! I'll wager those legs have never been sawn
 Blackadder: Well, neither have yours.
 Captain Rum: That's where you're wrong!
 [He pushes away the table he has been sitting at to reveal that he indeed has no legs]
+Blackadder: Oh my God...
+Captain Rum: No point in changing your mind now; no one else will come. The whole thing's suicide, anyway!
 
 	-- Blackadder - Potato
 %
@@ -366,7 +397,18 @@ Blackadder: [turns to Percy and Baldrick] Bugger.
 Percy: Don't despair, good woman. He died a hero's death, giving his life so that his friends might live.
 Blackadder: And that his enemies might have something to go with their potatoes!
 Nursie: [tearfully] You mean they put him in the pot?!
-Blackadder: Yes, your fiancee was only a third-rate sailor, but a first-rate second course!
+Blackadder: Yes, your fiancé was only a third-rate sailor, but a first-rate second course!
+
+	-- Blackadder - Potato
+%
+[Blackadder, Baldrick and Percy have been giving everyone presents from their adventure]
+Queenie: But what about Melchy and Raleigh? You must have brought something for them as well. Nursie's got her beard, I've got my stick - what about the two boys?
+Blackadder: [stalling] Yes, well... [turns to Baldrick, and they reach into his satchel] There was one thing, ma'am... [they pull out one of the bottles Baldrick filled with his own urine] A fine wine! A most delicious beverage! [pours out two tankards for Melchett and Raleigh]
+Queenie: Have a taste, boys, and tell us what you think!
+[Melchett and Raleigh "sniff the bouquet"]
+Sir Walter Raleigh: Oh, it certainly has plenty of nose!
+Melchett: Oh yes, this is very familiar...
+Blackadder: I'm sure you'll be delighted to hear that there is an inexhaustible supply of the stuff! [shares a smile with Baldrick]
 
 	-- Blackadder - Potato
 %
@@ -1109,7 +1151,7 @@ Baldrick: Which leaves...?
 Blackadder: Caroline of Brunswick as the only available princess in Europe.
 Baldrick: And what's wrong with her? [Blackadder stands up]
 Blackadder: [shouting very loud and very fast] GET MORE COFFEE! IT'S HORRID, CHANGE IT! TAKE ME ROUGHLY FROM BEHIND! NO, NOT LIKE THAT, LIKE THIS! TROUSERS OFF, TACKLE OUT! WALK THE DOG! WHERE ARE MY PRESENTS?!
-Baldrick: [flustered] ALRIGHT! ALRIGHT! Which one'd you want me to do first!?
+Baldrick: [flustered] ALL RIGHT, ALL RIGHT! Which one'd you want me to do first?!
 Blackadder: No, that's what Caroline's like! She's famous for having the worst personality in Germany...and as you can imagine, that's up against some pretty stiff competition!
 
 	-- Blackadder - Amy and Amiability
@@ -1125,7 +1167,7 @@ Baldrick: I do.
 
 	-- Blackadder - Amy and Amiability
 %
-George: Honestly Blackadder, I dunno why I'm bothering to get dressed. As soon as I get to the Naughty Hellfire Club, I'll be debagged and radished for non-payment of debts!
+George: Honestly, Blackadder, I dunno why I'm bothering to get dressed. As soon as I get to the Naughty Hellfire Club, I'll be debagged and radished for non-payment of debts!
 Blackadder: [confused] "Radished", sir?
 George: Yes, they pull your britches down and push a large radish right up your-!
 Blackadder: Yes, yes, all right! There's no need to hammer it home.
@@ -1142,19 +1184,20 @@ Blackadder: You obviously haven't met Lady Hamilton, sir.
 
 	-- Blackadder - Amy and Amiability
 %
-Blackadder: CRISIS, BALDRICK, CRISIS! NO MONEY, NO MARRIAGE, MORE BILLS! For the first time in my life, I've decided to follow a suggestion of yours. Saddle Prince George's horse!
-Baldrick: Oh sir, you're not becoming a highwayman?
+Blackadder: CRISIS, BALDRICK, CRISIS! NO MARRIAGE, NO MONEY, MORE BILLS! For the first time in my life, I've decided to follow a suggestion of yours. Saddle Prince George's horse!
+Baldrick: Oh sir, you're not gonna become a highwayman, are you?
 Blackadder: [sarcastic] No, I'm auditioning for the part of Arnold the Bat in Sheridan's new comedy!
-Baldrick: Oh, that's alright then.
+Baldrick: Oh, that's all right then.
 Blackadder: Baldrick, have you no idea what irony is?
-Baldrick: Yeah, it's like goldy or bronzey, only it's made of iron. [pause]
+Baldrick: Yeah... It's like goldy or bronzey, only it's made of iron.
 Blackadder: Never mind, never mind. Just saddle the Prince's horse!
-Baldrick: That'll be difficult; he wrapped her round that gas lamp in the Strand last night!
-Blackadder: Well saddle my horse, then!
-Baldrick: What'd you think you've been eating for the last two months!?
-Blackadder: Well go out into the street and hire me a horse!
-Baldrick: Hire a horse!? For ninepence? On Jewish New Year in the rain!? A bare fortnight after the dreaded Horse Plague of Old London Town!? With the blacksmith's strike in its fifteenth week and the Dorset Horse Fetishists Fair tomorrow!? [pause, then Blackadder hurls a saddle and bridle at Baldrick]
-Blackadder: Well get this on, then. It looks as though you could do with the exercise!
+Baldrick: That'll be difficult; he wrapped her round that gas lamp in the Strand last night.
+Blackadder: Well, saddle my horse, then!
+Baldrick: What'd you think you've been eating for the last two months?!
+Blackadder: Well, go out into the street and hire me a horse!
+Baldrick: Hire a horse?! For ninepence?! On Jewish New Year in the rain?! A bare fortnight after the dreaded Horse Plague of Old London Town?! With the blacksmith's strike in its fifteenth week and the Dorset Horse Fetishists Fair tomorrow?!
+[Pause - then Blackadder hurls a saddle and bridle at Baldrick]
+Blackadder: Well, get this on, then. It looks as though you could do with the exercise!
 
 	-- Blackadder - Amy and Amiability
 %
@@ -1162,7 +1205,7 @@ Blackadder: Well get this on, then. It looks as though you could do with the exe
 Baldrick: [annoyed] I still can't believe you're leaving me behind!
 Blackadder: Don't worry, when we're established on our plantation in Barbados, I'll send for you. No more sad little London for you, Balders; from now on, you'll stand out in life as an individual!
 Baldrick: Will I?
-Blackadder: Well of course you will; all the other slaves will be black!
+Blackadder: Well, of course you will; all the other slaves will be black!
 
 	-- Blackadder - Amy and Amiability
 %
@@ -1178,7 +1221,7 @@ Blackadder: Being pleased to see you!
 
 	-- Blackadder - Amy and Amiability
 %
-George: [talking about his love for Amy] Oh Amy, bless all ten of your tiny pinkies. [picks up his paper] Now, let's see what's in the paper... OH MY GOD! SHE'S BEEN ARRESTED AND HANGED!
+George: [talking about his love for Amy] Oh Amy, bless all ten of your tiny pinkies. [picks up his paper] Now, let's see what's in the paper... OH MY GOD, SHE'S BEEN ARRESTED AND HANGED!
 Blackadder: [knowingly] Oh really?
 George: It turns out she was a highwayman.
 Blackadder: [tuts] These modern girls.
@@ -1569,11 +1612,11 @@ Blackadder: Fine, I'll try and aim between General Melchett's ears!
 	-- Blackadder - Plan D: Private Plane
 %
 [After being shot down behind German lines]
-Blackadder: I don't believe it-a German prison cell! For two and a half years, the Western Front's been about as likely to move as a Frenchman who lives next door to a brothel, then last night the Germans advance a mile and we land on the wrong side!
+Blackadder: I don't believe it - a German prison cell! For two and a half years, the Western Front's been about as likely to move as a Frenchman who lives next door to a brothel, then last night the Germans advance a mile and we land on the wrong side!
 Baldrick: Oh dear, Captain B., my tummy's gone all squirty!
 Blackadder: That's because you're scared, Baldrick, and you're not the only one. I couldn't be more petrified if a wild rhinoceros had come home from a hard day at the swamp and found me wearing his pyjamas, smoking his cigars and in bed with his wife!
 Baldrick: I've heard what these Germans'll do, sir; they'll have their wicked way with anything of woman-born!
-Blackadder: Well in that case Baldrick, you're quite safe! [...]
+Blackadder: Well, in that case Baldrick, you're quite safe! However, the Teutonic reputation for brutality is well-founded: their operas last three or four days; and they have no word for 'fluffy'.
 Baldrick: I want my mum!
 Blackadder: Yes, it'll be good to see her. I should imagine a maternally outraged gorilla could be a useful ally when it comes to the final scrap!
 
