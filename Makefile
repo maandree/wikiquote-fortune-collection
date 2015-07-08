@@ -48,22 +48,13 @@ makepkg-install:
 	done
 
 
-.PHONY: makepkg-source
-makepkg-source: mkaurball
-
-.PHONY: mkaurball
-mkaurball:
-	for show in $(SHOWS); do \
-	    cd quotes/$${show} && \
-	    mkaurball && \
-	    cd ../.. || exit 1; \
-	done
-
-
 .PHONY: aur-upload
 aur-upload:
-	burp -u $(USER) -c games \
-	$(foreach S,$(SHOWS),quotes/$(S)/fortune-mod-$(S)-$(shell cat quotes/$(S)/version)-1.src.tar.gz)
+	for show in $(SHOWS); do \
+	    cd quotes/$${show} && \
+	    ../../aur-upload && \
+	    cd ../.. || exit 1; \
+	done
 
 
 .PHONY: clean
