@@ -808,7 +808,7 @@ Blackadder: Oh, God... If you want something done properly, kill Baldrick before
 
 	-- Blackadder - Dish and Dishonesty
 %
-Blackadder: How could I have been so stupid?! Goodbye Millionaires' Row, hello Room 12 of the Budleigh Salterton Twilight Resthome for the Terminally Short of Cash!
+Blackadder: How could I have been so stupid?! Goodbye, Millionaires' Row! Hello, Room 12 of the Budleigh Salterton Twilight Resthome for the Terminally Short of Cash!
 
 	-- Blackadder - Dish and Dishonesty
 %
@@ -842,7 +842,7 @@ Blackadder: [about the dictionary] It's the most pointless book since "How to Le
 	-- Blackadder - Ink and Incapability
 %
 Baldrick: Something wrong, Mr. B?
-Blackadder: Oh, something's always wrong, Balders. The fact that I'm not a millionaire aristocrat with the sexual capacity of a rutting rhino is a constant niggle. But today, something's even wrong-er: that globulous fraud Dr. Johnson is coming to tea.
+Blackadder: Oh, something's always wrong, Balders. The fact that I'm not a millionaire aristocrat with the sexual capacity of a rutting rhino is a constant niggle. But today, something's even wronger: that globulous fraud Dr. Johnson is coming to tea.
 Baldrick: I thought he was the cleverest man in England?
 Blackadder: Baldrick, I'd bump into cleverer people at a lodge meeting of the Guild of Village Idiots!
 Baldrick: That's not what you said when you sent him your navel.
@@ -891,6 +891,10 @@ Blackadder: Yes, Baldrick, I am. And if you don't answer, then the booted bony t
 Baldrick: On the fire.
 Blackadder: On the what?
 Baldrick: The hot, orangy thing under the stony mantelpiece.
+Blackadder: You burnt the dictionary?!
+Baldrick: Yep.
+Blackadder: You burnt the life's work of England's foremost man of letters?!
+Baldrick: Well you did say to burn any old rubbish.
 
 	-- Blackadder - Ink and Incapability
 %
@@ -1019,7 +1023,7 @@ Blackadder: Nothing. You are last in God's great chain. Unless there's an earwig
 
 	-- Blackadder - Nob and Nobility
 %
-Blackadder: [about the Scarlet Pimpernel] What has this fellow done, apart from pop over to France to rescue a few aristocratic toffs from the ineffectual clutches of some malnourished, whinging lefties, taking the opportunity while there, no doubt, to pick up some really cheap wine and some of their marvellous fruit flans?! Has everyone forgotten?! We hate the French! We fight wars against them! Did all those men die in vain on the fields of Agincourt?! Was the man who burnt Joan of Arc simply wasting good matches?! [the bell for service rings] Ah, his Royal Highness, the Pinhead of Wales, summons me. And you know, I almost feel well disposed towards him today. Utter chump though he may be, at least he's not French!
+Blackadder: [about the Scarlet Pimpernel] What has this fellow done, apart from pop over to France to rescue a few aristocratic toffs from the ineffectual clutches of some malnourished whinging lefties, taking the opportunity while there, no doubt, to pick up some really cheap wine and some of their marvellous fruit flans?! Has everyone forgotten?! We hate the French! We fight wars against them! Did all those men die in vain on the fields of Agincourt?! Was the man who burnt Joan of Arc simply wasting good matches?! [the bell for service rings] Ah, his Royal Highness, the Pinhead of Wales, summons me. And you know, I almost feel well disposed towards him today. Utter chump though he may be, at least he's not French!
 
 	-- Blackadder - Nob and Nobility
 %
@@ -1050,20 +1054,18 @@ Blackadder: As usual, Baldrick: by use of the large and wonderful thing between 
 Baldrick: Oh, your nose.
 Blackadder: [annoyed] No, Baldrick, my brain. All we need to do is lie low here for a week, go to Mrs Miggins, pick up any French toff, drag him through a puddle, take him to the ball and collect our thousand guineas!
 Baldrick: But what if the Prince finds us here?
-Blackadder: He couldn't find his flybutton, let alone the kitchen door!
-
-	-- Blackadder - Nob and Nobility
-%
-[A week later]
+Blackadder: He couldn't find his fly buttons, let alone the kitchen door!
+[Upstairs, the Prince takes out a pair of blue trousers with sliver trimming]
+Prince George: What a pair of trousers! I shall be the Belle of the Embassy Ball! Now, how do you put them on? Err... [calls] Blackadder! Oh no, damn, he's gone to France. Well, I'll do it myself; shouldn't be too difficult... Erm... Err... [puts an arm through one trouser leg...]
+[A week later, in Blackadder's quarters]
 Blackadder: Well, Baldrick. What a very pleasant week. We must do this more often.
-Baldrick: Yes, I shall certainly choose Revolutionary France for my holidays again next year.
-
-	-- Blackadder - Nob and Nobility
-%
+Baldrick: [rather bored] Yes, I shall certainly choose Revolutionary France for my holidays again next year.
+Blackadder: Still, time to go to work! Off to Mrs Miggins' to pick up any old French toff—
 [There is a loud banging from upstairs]
 Baldrick: What do you think that was?
 Blackadder: Well, if I was feeling malicious, I would say it was the Prince, still trying to put his trousers on after a week.
-[Upstairs, the Prince struggles around with his trousers on his head]
+[Upstairs, the Prince struggles around with his trousers on his head, bumping into walls]
+Prince George: Damn!!!
 
 	-- Blackadder - Nob and Nobility
 %
@@ -1076,7 +1078,7 @@ Blackadder: Yes, yes, all right.
 	-- Blackadder - Nob and Nobility
 %
 Comte de Frou-Frou: Have no fear, the Scarlet Pimpernel will save us!
-Blackadder: Ha! Some hope - he's the most overrated human begin since Judas Iscariot won the AD31 Best Disciple Competition.
+Blackadder: Ha! Some hope. He's the most overrated human being since Judas Iscariot won the AD31 Best Disciple Competition.
 
 	-- Blackadder - Nob and Nobility
 %
@@ -1107,7 +1109,7 @@ Blackadder: I think then that the mystery is solved. Now, either you leave me al
 
 	-- Blackadder - Nob and Nobility
 %
-[After the Prince is nearly blown up by an assassin]
+[After the Prince is nearly blown up by an anarchist]
 George: I must say, Blackadder, that was a close shave! And unexpected as well! I mean, why on earth would an anarchist possibly want to kill you?
 Blackadder: I think it was you he was after, sir.
 George: Oh, hogwash! What makes you think that?
@@ -1126,6 +1128,17 @@ Blackadder: I think, being actors, you're lucky to sleep with anyone.
 	-- Blackadder - Sense and Senility
 %
 Blackadder: [to Mrs. Miggins] They do say, Mrs. Miggins, that verbal insults hurt more than physical pain. They are, of course, wrong, as you will soon discover when I stick this toasting fork in your head!
+
+	-- Blackadder - Sense and Senility
+%
+George: Look, Blackadder, this is all getting a bit hairy, isn't it? I mean, are you sure we can even trust these acting fellows? Last time we went to the theatre, three of them murdered Julius Caesar! And one of them was his best friend Brutus!
+Blackadder: As I have told you about eight times, the man playing Julius Caesar was an actor called Kemp.
+George: Really?
+Blackadder: [sharply] Yes!
+George: Thundering gherkins! Well, Brutus must have been pretty miffed when he found out!
+Blackadder: What?!
+George: That he hadn't killed Caesar after all, just some poxy actor called Kemp. What, do you think he went round to Caesar's place after the play and killed him then?
+Blackadder: [to himself] Oh God, it's pathetic...!
 
 	-- Blackadder - Sense and Senility
 %
@@ -1563,12 +1576,12 @@ Blackadder: Well, mop it up then!
 Baldrick: No sir, the news! The Russian Revolution has started! The masses have risen up and shot all their nobs!
 George: Well, hurrah!
 Blackadder: Oh no, the bloody Russians have pulled out of the war!
-George: Well, we soon saw them off, didn't we?! Miserable, slant-eyed sausage eating swine!
+George: Well, we soon saw them off, didn't we?! Miserable, slant-eyed sausage-eating swine!
 Blackadder: The Russians are on our side, George.
-George: [surprised] Are they?
+George: [surprised] Are they? Oh.
 Blackadder: And they've abandoned the Eastern Front.
 Baldrick: And they've overthrown Nicholas II who used to be bizarre!
-Blackadder: Who used to be the tsar. The point is that now that the Russians have made peace with the Kaiser, at this very moment a quarter of a million Germans are leaving the Russian Front and coming here with the express purpose of using my nipples for target practice!
+Blackadder: Who used to be the tsar, Baldrick. The point is that now that the Russians have made peace with the Kaiser, at this very moment a quarter of a million Germans are leaving the Russian Front and coming here with the express purpose of using my nipples for target practice!
 
 	-- Blackadder - Plan C: Major Star
 %
@@ -1595,7 +1608,7 @@ Blackadder: Yes, I'd keep that to myself if I were you.
 
 	-- Blackadder - Plan C: Major Star
 %
-Blackadder: Baldrick, no! It's the worst plan since Abraham Lincoln said "Oh I'm sick of kicking around the house tonight, let's go take in a show!". For a start, General Melchett is in mourning for the woman of his dreams: he is unlikely therefore to be in the mood to marry a two-legged badger wrapped in a curtain! Secondly, we are looking for a great entertainer, and you're the worst entertainer since Saint Paul the Evangelist toured Palestine with his trampoline act! No, we'll have to find somebody else.
+Blackadder: Baldrick, no! It's the worst plan since Abraham Lincoln said "Oh, I'm sick of kicking around the house tonight, let's go take in a show!". For a start, General Melchett is in mourning for the woman of his dreams: he is unlikely therefore to be in the mood to marry a two-legged badger wrapped in a curtain! Secondly, we are looking for a great entertainer, and you're the worst entertainer since Saint Paul the Evangelist toured Palestine with his trampoline act! No, we'll have to find somebody else.
 George: What about Corporal Cartwright, sir?
 Blackadder: Corporal Cartwright looks like an orangutan. I've heard of the bearded lady, but the all-over-body-hair lady frankly just isn't on!
 George: Willis?
@@ -1691,7 +1704,7 @@ Blackadder: I don't believe it - a German prison cell! For two and a half years,
 Baldrick: Oh dear, Captain B., my tummy's gone all squirty!
 Blackadder: That's because you're scared, Baldrick, and you're not the only one. I couldn't be more petrified if a wild rhinoceros had come home from a hard day at the swamp and found me wearing his pyjamas, smoking his cigars and in bed with his wife!
 Baldrick: I've heard what these Germans'll do, sir; they'll have their wicked way with anything of woman-born!
-Blackadder: Well, in that case, Baldrick, you're quite safe! However, the Teutonic reputation for brutality is well-founded: their operas last three or four days, and they have no word for 'fluffy'.
+Blackadder: Well, in that case, Baldrick, you're quite safe! However, the Teutonic reputation for brutality is well-founded: their operas last three or four days, and they have no word for "fluffy".
 Baldrick: I want my mum!
 Blackadder: Yes, it'll be good to see her. I should imagine a maternally outraged gorilla could be a useful ally when it comes to the final scrap! [Footsteps are heard approaching] Prepare to die like a man, Baldrick...or as close as you can get to one without actually shaving the palms of your hands!
 
