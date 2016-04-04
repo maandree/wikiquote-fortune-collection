@@ -278,7 +278,17 @@ Lord Flashheart: I have a plan! And it's as hot as my pants!!!
 
 	-- Blackadder - Bells
 %
-Blackadder: Yes. To you, Baldrick, the Renaissance was just something that happened to other people, wasn't it?
+Blackadder: Right Baldrick, let's try again, shall we? This is called adding. (gestures to the beans on the table) If I have two beans, and then I add two more, what do I have?
+Baldrick: Some beans.
+Blackadder: (smiles, impatiently) Yesss... and no. Let's try again, shall we? I have two beans, then I add two more beans. What does that make?
+Baldrick: A very small casserole.
+Blackadder: Baldrick. The ape-creatures of the Indus have mastered this. Now try again. (helps him count) One, two, three... four. So, how many are there?
+Baldrick: Three.
+Blackadder: What?
+Baldrick: And that one.
+Blackadder: Three... and that one. (waves the fourth bean in front of Baldrick's face) So if I add the three to that one, what will I have?!
+Baldrick: Oh! Some beans.
+Blackadder: (pause) Yes. To you, Baldrick, the Renaissance was just something that happened to other people, wasn't it?
 
 	-- Blackadder - Head
 %
@@ -476,25 +486,31 @@ Baldrick: Oh, bloody hell!
 
 	-- Blackadder - Money
 %
-[Percy is surrounded by chemical apparatus. On the table in front of him is a green blob]
-Percy: My Lord! Success! After literally an hour's ceaseless searching, I have succeeded in creating gold! Pure gold! Behold!
+[Blackadder arrives home, to find the house flooded with smoke]
+Blackadder: Oh, God! This place stinks like a pair of armored trousers after the Hundred Years' War! Baldrick, have you been eating dung again?!
+Percy: My Lord! Success!
+Blackadder: What?
+[Percy pulls him into the living room, where the table is covered with chemical apparatus]
+Percy: After literally an hour's ceaseless searching, I have succeeded in creating gold! Pure gold!
+Blackadder: Are you sure?
+Percy: Yes, my Lord! Behold! [opens a lid on the top of the lab mess, revealing a green blob]
 Blackadder: Percy, it's green.
 Percy: That's right, my Lord.
-Blackadder: Yes Percy, I don't want to be pedantic or anything but the colour of gold is gold. That's why it's called "gold". What you have discovered, if it has a name, is some "green".
-Percy: [astonished, picking up the blob] Oh Edmund! Can it be true? That I hold here, in my mortal hand, a nugget of purest green?
+Blackadder: Yes, Percy, I don't want to be pedantic or anything, but the colour of gold is gold. That's why it's called "gold". What you have discovered, if it has a name, is some "green".
+Percy: [astonished, picking up the blob] Oh, Edmund! Can it be true? That I hold here, in my mortal hand, a nugget of purest green?!
 Blackadder: Indeed you do, Percy. Except it's not really a nugget, is it? It's more of a splat.
 Percy: Well, yes, a splat today, but tomorrow - who knows, or dares to dream?
-Blackadder: [dryly] So, we three alone in all the world can create the finest green at will?
+Blackadder: [dryly] So we three alone, in all the world, can create the finest green at will?
 Percy: Just so! Not sure about counting in Baldrick, actually.
 Blackadder: Of course, you know what your great discovery means, don't you, Percy?
-Percy: Perhaps, my lord...
-Blackadder: That, you Percy, Lord Percy, are an utter berk!
+Percy: Perhaps, my Lord...
+Blackadder: That you, Percy, Lord Percy, are an utter berk!
 [Percy smiles and clenches his fist in the air]
 Blackadder: Baldrick!
 Baldrick: My Lord?
 Blackadder: Pack my bags, I'm going to sell the house.
 Percy and Baldrick: What?!
-Blackadder: There's nothing else for it. I mean I shall miss the old place, I know. I've had some happy times here, when you and Percy have been out. But needs must when the devil vomits into your kettle. Baldrick, go forth into the streets and let it be known that Lord Blackadder wishes to sell his house. Percy, just go forth into the streets.
+Blackadder: There's nothing else for it. I mean, I shall miss the old place, I know. I've had some happy times here, when you and Percy have been out. But needs must when the devil vomits into your kettle! Baldrick, go forth into the streets and let it be known that Lord Blackadder wishes to sell his house. Percy, just go forth into the streets.
 
 	-- Blackadder - Money
 %
@@ -888,9 +904,9 @@ Blackadder: Every single one, sir?
 Johnson: (confidently) Every single word, sir!
 Blackadder: (to Prince) Oh, well, in that case, sir, I hope you will not object if I also offer the Doctor my most enthusiastic contrafribblarities.
 Johnson: What?
-Blackadder: Contrafribblarites, sir? It is a common word down our way.
+Blackadder: "Contrafribblarites", sir? It is a common word down our way.
 Johnson: Damn! (writes in the book)
-Blackadder: Oh, I'm sorry, sir. I'm anus-peptic, phrasmotic, even compunctious to have caused you such pericombobulation.
+Blackadder: Oh, I'm sorry, sir. I'm anaspeptic, frasmotic, even compunctuous to have caused you such pericombobulations.
 Johnson: What? What? WHAT?
 
 	-- Blackadder - Ink and Incapability
@@ -1252,6 +1268,17 @@ Blackadder: [mortified] NO! NO!
 
 	-- Blackadder - Amy and Amiability
 %
+George: Right, so what's the plan?
+Blackadder: Well, I thought I could take her a short note expressing your honorable intentions.
+George: Yes, yes, I think so too. All right then, well take this down: [as Blackadder writes] "From His Royal Highness, the Prince of Wales to Miss Amy Hardwood. Tally-ho, my fine saucy young trollop! Your luck's in! Trip along here with all your cash, and some naughty night attire, and you'll be staring at my bedroom ceiling from now till Christmas, you lucky tart! Yours with the deepest respect, etc., signed George. P.S.: Woof, woof!" Well, what do you think?
+Blackadder: ... It's very moving, sir. Would you mind if I change just one tiny aspect of it?
+George: Which one?
+Blackadder: The words.
+George: Oh yes, I'll leave the details to you, Blackadder. Just make sure she knows I'm all man... with a bit of animal thrown in! Rrrrgh! [leaves]
+Blackadder: Certainly, sir. [scores out the entire letter]
+
+	-- Blackadder - Amy and Amiability
+%
 Blackadder: I can see where your daughter gets her ready wit, sir.
 Hardwood: I thank you.
 Blackadder: Although where she gets her good looks and charm is perhaps more of a mystery.
@@ -1310,7 +1337,10 @@ George: ... But they don't know who it was.
 
 	-- Blackadder - Amy and Amiability
 %
-Blackadder: Leave me alone, Baldrick. If I wanted to talk to a vegetable, I'd have bought one at the market! God, I'm wasted here. It's no life for a man of noble blood, being servant to a master with the intellect of a jugged walrus and all the social graces of a potty!
+Baldrick: [entering with a letter] Mr. Blackadder?
+Blackadder: Leave me alone, Baldrick. If I wanted to talk to a vegetable, I'd have bought one at the market!
+Baldrick: Don't you want this message?
+Blackadder: No, thank you. God, I'm wasted here. It's no life for a man of noble blood, being servant to a master with the intellect of a jugged walrus and all the social graces of a potty!
 Baldrick: I'm wasted too. I've been thinking of bettering myself.
 Blackadder: Oh really, how?
 Baldrick: I applied for the job of village idiot of Kensington.
@@ -1320,12 +1350,18 @@ Blackadder: Oh, what went wrong?
 Baldrick: I turned up. The other bloke was such an idiot, he forgot to.
 Blackadder: Yes, I'm afraid my ambitions stretch slightly further than professional idiocy in West London! I want to be remembered when I'm dead. I want books written about me. I want songs sung about me. And then, hundreds of years from now, I want episodes of my life to be played out weekly at half past nine by some great heroic actor of the age.
 Baldrick: Yeah, and I could be played by some tiny tit in a beard.
-Blackadder: Quite.
+Blackadder: Quite. Now, what's this message?
+Baldrick: I thought you didn't want it.
+Blackadder: Well, I may do, it depends what it is.
+Baldrick: So you do want it?
+Blackadder: Well, I don't know, do I? It depends what it is.
+Baldrick: [frantically] Well, I can't tell you what it is unless you want to know, and you said you didn't want to know, and now I'm so confused, I don't know where I live or what my name is!!
+Blackadder: Your name is of no importance, and you live in the pipe in the upstairs water closet.
 
 	-- Blackadder - Duel and Duality
 %
 [Blackadder reads a message from the Duke of Wellington to the Prince Regent]
-Blackadder: "Sir, Prince or pauper, when a man soils a Wellington, he puts his foot in it. (This is not a joke. I do not find my name remotely funnny and people who do end up dead)".
+Blackadder: "Sir, Prince or pauper, when a man soils a Wellington, he puts his foot in it. (This is not a joke. I do not find my name remotely funnny and people who do end up dead.)"
 
 	-- Blackadder - Duel and Duality
 %
@@ -1393,6 +1429,8 @@ Blackadder: You don't think inspired leadership and tactical ability has anythin
 Duke of Wellington: (pause) NO! It's all down to shouting! BAAAH!
 Blackadder: I hear that conditions in your Army are appalling.
 Duke of Wellington: Well, I'm sorry, but those are my conditions, and you'll just have to accept them - until this evening, that is (grins nastily) when I shall kill you.
+Blackadder: Who knows? Maybe I shall kill you.
+Duke of Wellington: (scoffing) Nonsense. I've never been so much as scratched. My skin is as smooth as a baby's bottom... which is more than you can say for my bottom.
 
 	-- Blackadder - Duel and Duality
 %
@@ -1400,7 +1438,7 @@ The Prince Regent: Good portents for your duel, do you think?
 Blackadder: Not really, sir. I'm afraid that the duel is off.
 The Prince Regent: Off?!
 Blackadder: As in "Sod". I'm not doing it.
-The Prince Regent: [outraged] By thunder, here's a pretty game! You will stay, sir, and do duty by your prince, or I shall--
+The Prince Regent: [outraged] By thunder, here's a pretty game! You will stay, sir, and do duty by your Prince, or I shall--
 Blackadder: [bitingly] Or what, you port-brained twerp?! I've looked after you all my life! Even when we were babies, I had to show you which bit of your mother was serving the drinks!
 
 	-- Blackadder - Duel and Duality
@@ -1593,7 +1631,7 @@ Squad Leader: Ahh, wish I could pause, sir, I really wish I could. But I can't, 
 	-- Blackadder - Plan B: Corporal Punishment
 %
 [After Blackadder has gotten a reprieve, no thanks to George and Baldrick]
-Blackadder: I'm not a religious man as you know, but henceforth, I shall nightly pray to the God who killed Cain and squashed Samson that he comes out of retirement and gets back into practice on the pair of you! [the phone rings] Captain Blackadder speaking. Ah, Captain Darling. Yes, well some of us just have friends in high places, I suppose. Yes I can hear you perfectly. You want what? You want two volunteers for a mission into no-man's land? Code name: "Operation Certain Death"? Yes, I think I have just the fellows. [he hangs up and grins cruelly at George and Baldrick] God is very quick these days!
+Blackadder: I'm not a religious man, as you know, but henceforth I shall nightly pray to the God who killed Cain and squashed Samson that he comes out of retirement and gets back into practice on the pair of you! [the phone rings] Captain Blackadder speaking. Ah, Captain Darling. Yes, well, some of us just have friends in high places, I suppose. Yes I can hear you perfectly. You want what? You want two volunteers for a mission into no man's land? Codename: "Operation Certain Death"? Yes, I think I have just the fellows. [he hangs up and grins cruelly at George and Baldrick] God is very quick these days!
 
 	-- Blackadder - Plan B: Corporal Punishment
 %
@@ -1902,6 +1940,14 @@ Blackadder: Yes, I wouldn't be too hopeful; we'd have to get her arms out of her
 
 	-- Blackadder - Plan E: General Hospital
 %
+Blackadder: (notices Darling limping through the infirmary) What are you here for, Darling?
+Darling: Bullet in the foot.
+Blackadder: (sarcastically) Well, I can understand soldiers shooting themselves in the foot in the trenches, but when you're thirty-five miles behind the line-
+Darling: (angrily) I did not shoot myself! The General did it.
+Blackadder: Finally got fed up with you, eh?
+
+	-- Blackadder - Plan E: General Hospital
+%
 [Blackadder interrogates Darling, who is tied up and blindfolded]
 Darling: This is completely ridiculous, Blackadder! You can't suspect me, I've only just arrived.
 Blackadder: The first rule of counter-espionage, Darling, is to suspect everyone. Believe me, I will be asking myself some pretty searching questions later on. Now, tell me: What is the colour of the Queen of England's favourite hat?
@@ -1982,7 +2028,7 @@ George: Oh, dash and blast it all! I'm as bored as a pacifist's pistol; when are
 Blackadder: Well George, I strongly suspect your long wait for certain death is nearly at an end. Surely you must have noticed something in the air?
 George: Well of course sir, but I thought that was Private Baldrick!
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
 %
 Blackadder: No, the time has come to get out of this madness once and for all!
 George: What madness is that, sir?
@@ -1993,7 +2039,7 @@ George: Oh, uh, well… Jocko and the Badger bought it at the first Ypres, unfor
 Blackadder: Meaning?
 George: I don't know, sir, but I read in the Times that they'd both been killed.
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
 %
 George: The war started because of the vile Hun and his villainous empire-building!
 Blackadder: George, the British Empire at present covers a quarter of the globe, while the German Empire consists of a small sausage factory in Tanganyika. I hardly think we can be entirely absolved from blame on the imperialistic front.
@@ -2010,18 +2056,30 @@ George: Oh, what was that?
 Blackadder: It was bollocks.
 Baldrick: So the poor old ostrich died for nothing!
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
+%
+Melchett: (inspecting the trenches with Darling) Now then, soldier- you looking forward to giving those Frenchies a damn good licking?
+Darling: Ah, no, sir- it's the Germans we should be licking, sir.
+Melchett: (gives Darling a look of disgust) Don't be revolting, Darling! I wouldn't lick a German if he was glazed in honey! (turns back to Baldrick) Now then, soldier- do you love your country?
+Baldrick: Certainly do, sir!
+Melchett: And do you love your King?
+Baldrick: Certainly don't, sir!
+Melchett: (looking very offended) And why not?!
+Baldrick: My mother told me never to trust men with beards, sir!
+Melchett: (laughs) Excellent native Cockney wit! (punches Baldrick in the jaw and knocks him down)
+
+	-- Blackadder - Plan F: Goodbyeee
 %
 Blackadder: [regarding the 1914 Christmas truce] Both sides advanced further during one Christmas piss-up than they managed in the next two and a half years of war!
 Baldrick: Remember the football match?
 Blackadder: Remember it?! How could I forget it?! I was never offside; I could not BELIEVE that decision!
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
 %
 [Upon running out of options to avoid going over the top]
 Blackadder: I believe the phrase rhymes with "clucking bell"!
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
 %
 George: Sir...I'm scared, sir.
 Baldrick: I'm scared too, sir.
@@ -2029,7 +2087,7 @@ George: I'm the last of the tiddly-winking leap-froggers from the golden summer 
 Blackadder: What about you, Darling? How are you feeling?
 Darling: Ah, not all that good, Blackadder. Rather thought I'd get through the whole show. Go back to working at Pratt and Sons. Keep wicket for the Croydon Gentlemen. Marry Doris. Made a note in my diary on the way here. Simply says... "Bugger".
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
 %
 [Last lines of the series; Blackadder, Baldrick, George and Darling are ready to go over the top]
 Darling: Listen... Our guns have stopped.
@@ -2053,7 +2111,7 @@ Baldrick: Yes, sir.
 Captain in background: ON THE SIGNAL, COMPANY WILL ADVANCE!
 Blackadder: Well, I'm afraid it'll have to wait. Whatever it was, I'm sure it was better than my plan to get out of this by pretending to be mad. I mean, who would have noticed another madman round here? [a whistle is heard] Good luck, everyone. [blows whistle, and they go over the top]
 
-	-- Blackadder - Plan F: Goodbyeee...
+	-- Blackadder - Plan F: Goodbyeee
 %
 Blackadder: Baldrick, your brain is like the four-headed man-eating haddock-fish-beast of Aberdeen.
 Baldrick: In what way?
@@ -2182,11 +2240,19 @@ Blackadder: Well, all I can say is you've been damned lucky!
 
 	-- Blackadder - Blackadder's Christmas Carol
 %
+Melchett: Stuff and stonsense! I've heard some rubbish in my time - every time I open my mouth, as a matter of fact! But a time machine?
+
+	-- Blackadder - Blackadder Back & Forth
+%
+Blackadder: [unveiling his time machine] Ladies and gentlemen, the greatest breakthrough in travel since Mr. Rodney Tricycle thought to himself, "I'm bored with walking, I think I'll invent a machine with three wheels and a bell, and name it after myself."
+
+	-- Blackadder - Blackadder Back & Forth
+%
 Blackadder: [To Baldrick] Fascinating. One of history's great mysteries solved. The dinosaurs were in fact wiped out by your pants.
 
 	-- Blackadder - Blackadder Back & Forth
 %
-Blackadder: Well, isn't this a turn-up for the books, Baldrick? You have invented a working time machine and are therefore, rather surprisingly, the greatest genius who has ever lived!
+Blackadder: Well, Balders, this is a turn-up for the books. You've built a working time machine and are therefore, rather surprisingly, the greatest genius who has ever lived!
 
 	-- Blackadder - Blackadder Back & Forth
 %
@@ -2223,28 +2289,45 @@ Blackadder: [to Baldrick, as they run from a mob of bloodthirsty Scots] Last one
 
 	-- Blackadder - Blackadder Back & Forth
 %
-Blackadder: Get us home, Baldrick!
-Baldrick: [Wailing] But we don't know where home is! We're doomed to float through time, for all time! OH, WOE IS ME!!
-Blackadder: [Notices a button] Shut up, Baldrick, shut up. There is one final thing to push which may be our salvation! [He pushes it] ...Or not. Because it is in fact, a lollipop.
-Baldrick: Raspberry flavour, my lord.
-Blackadder: Oh God. I'm going to spend the rest of my life﻿ in a small wooden room with two toilets and the stupidest man in the universe.
-
-	-- Blackadder - Blackadder Back & Forth
-%
-Baldrick: I have a cunning plan.
-Blackadder: Go on.
-Baldrick: You know how, when you die, your life flashes before your eyes?
-Blackadder: Yes?
-Baldrick: Well, if you stuck your head down the toilet, you'd see your life flash before your eyes. And if you kept your head down there until just before you drowned, you'd see the where the controls were, and then you could take your head out, and guide us home.
-Blackadder: It's a brilliant plan. If I could suggest one tiny modification...
+Blackadder: Let's get home, Baldrick.
+Baldrick: [wailing] But we don't know where home is! We're doomed to float through time, for all time! OH, WOE IS ME...!!
+Blackadder: [notices a button] Shut up, Baldrick, shut up. There is one final thing to push which may be our salvation! [he pushes it; nothing happens] ...Or not. [Pulls it out] Because it is, in fact, a lollipop.
+Baldrick: Raspberry flavoured, my lord.
+Blackadder: [sitting down] Oh God! I'm going to spend the rest of my life﻿ in a small wooden room with two toilets and the stupidest man in the world.
+Baldrick: Wait, my lord, do not despair. For I have a cunning plan.
+Blackadder: ...Can I say I'm not optimistic, Baldrick?
+Baldrick: To be quite frank, my lord, neither am I. My family have never been very good at plans.
+Blackadder: So, with suitably low expectations, what is your cunning plan to get us home?
+Baldrick: Well, my lord, you know how, when people drown, their whole life flashes in front of them?
+Blackadder: Yeeees?
+Baldrick: Well, if you stuck your head in a bucket of water and didn't bring it out again, then your whole life would flash in front of you, and you'd see where all the knobs and levers were when first set off. And then, if you pulled your head out again, just before you died, you could guide us home!
+Blackadder: [standing up] Baldrick...
+Baldrick: My lord?
+Blackadder: Good plan. But perhaps just one tiny modification...
+Baldrick: Hmm?
+[Blackadder punches Baldrick and shoves his head down a toilet]
 Blackadder: [pulls Baldrick out] How's it going?
 Baldrick: I'm eighteen years old, I've just left nursery school!
-Blackadder: Okey-dokey! [drowns Baldrick some more then pulls him out] Now?
+Blackadder: Okey-dokey! [drowns Baldrick some more, then pulls him out]
 Baldrick: I'm twenty five; I'm back at nursery school!
+[Sighing in annoyance, Blackadder drowns him even more; he finally sees the combination, and Blackadder pulls him out]
+Baldrick: [spitting out water] GOT IT!
+Blackadder: Very good.
+Baldrick: [gasping] I wish... I wish I'd flushed the loo first!
+Blackadder: [looking down it] Oh, yes...
 
 	-- Blackadder - Blackadder Back & Forth
 %
-Blackadder: You really are as thick as clotted cream, that's been left out by some clot, until the clots are so clotted up you couldn't un-clot them with an electric de-clotter. Aren't you, Baldrick?
+Baldrick: As we approach the end, my lord, what do you think we've learned on our great journey?
+Blackadder: Good question, Baldrick. I suppose I've learned that I must buy you a much stronger mouthwash for Christmas this year. How about you?
+Baldrick: Oh, I dunno. I suppose I've learned that human beings have always been the same. Some nice, some nasty; some clever, some stupid; there's always a Blackadder and there's always a Baldrick.
+Blackadder: Yes, very profound, Baldrick.
+Baldrick: Also, it occurs to me...
+Blackadder: [annoyed] Oh God, there's not more, is there?
+Baldrick: ...If you're in the right place at the right time, then every person has the power to go out and change the world for the better.
+Blackadder: God, you really are as thick as clotted cream, that's been left out by some clot, until the clots are so clotted up you couldn't un-clot them with an electric de-clotter... aren't you, Baldrick? Real change comes from huge socioeconomic things that individuals have no effect on.
+Baldrick: Unless you're King or Prime Minister or something.
+Blackadder: Well, yes, I suppose they can make a difference. But for the rest of us, all we can do in life is to try to make a bit of cash! [the machine finally arrives home] Which is what I intend to do right now.
 
 	-- Blackadder - Blackadder Back & Forth
 %

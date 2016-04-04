@@ -277,7 +277,7 @@ Howard: Thy will be done. [Hangs up, takes out granola bar with peanuts, to whic
 
 	-- The Big Bang Theory - The Peanut Reaction [1.16]
 %
-Leonard [while Howard is teaching Sheldon Mandarin] Why are you learning Chinese?
+Leonard: [while Howard is teaching Sheldon Mandarin] Why are you learning Chinese?
 Sheldon: I believe the Szechuan Palace has been passing off Orange Chicken as Tangerine Chicken, and I intend to confront them.
 Leonard: If I were you, I'd be more concerned about what they're passing off as chicken.
 [Penny comes in with an iPod in her hand.]
@@ -293,11 +293,11 @@ Howard: [going to the computer] Not now. I have a blog to find.
 %
 [Leonard Knocking on Penny's door]
 Leonard: Penny, are you okay?
-Penny(voice off): I’m fine, Leonard, just go away.
+Penny: [voice off] I’m fine, Leonard, just go away.
 Leonard: Look, I understand that breaking up with someone can be very painful--.
 Penny: GO AWAY!
-Leonard: Okay, feel better, bye. (Goes back to apartment) She doesn’t want to talk.
-Sheldon: Not surprising. Penny’s emotional responses originate from the primitive portion of the brain known as the Amygdala, while speech is centered in the much more recently developed Neocortex. The former can easily overpower the latter giving scientific credence to the notion of being rendered speechless. (Leonard stares at him) Or maybe she just doesn’t want to talk.
+Leonard: Okay, feel better, bye. [Goes back to apartment] She doesn’t want to talk.
+Sheldon: Not surprising. Penny’s emotional responses originate from the primitive portion of the brain known as the Amygdala, while speech is centered in the much more recently developed Neocortex. The former can easily overpower the latter giving scientific credence to the notion of being rendered speechless. [Leonard stares at him] Or maybe she just doesn’t want to talk.
 
 	-- The Big Bang Theory - The Tangerine Factor [1.17]
 %
@@ -529,7 +529,7 @@ Sheldon: What could I have possibly done to insult Mrs. Vartabedian?
 
 	-- The Big Bang Theory - The Vartabedian Conundrum [2.10]
 %
-Leonard: I have just one question for you. While I am perfectly happy with the way things are between us, you said that you didn't want to go out with me because I was too smart for you. Well, newsflash, Lady. David Underhill is ten times smarter than me. You'd have to drive a railroad spike in his brain for me to beat him at checkers. Next to him, I am like one of those sign-language gorillas who knows how to ask for grapes. So my question is, what's up with that?
+Leonard: I have just one question for you. While I am perfectly happy with the way things are between us, you said that you didn't want to go out with me because I was too smart for you. Well, newsflash, lady. David Underhill is ten times smarter than me. You'd have to drive a railroad spike in his brain for me to beat him at checkers. Next to him, I am like one of those sign-language gorillas who knows how to ask for grapes. So my question is...what's up with that?
 Penny: [crying] Why are you yelling at me?
 Leonard: Sorry! I'm sorry, sorry. Never mind. We're cool.
 Penny: Dave is not smarter than you. He's an idiot.
@@ -930,6 +930,7 @@ Sheldon: Well, that's no reason to cry. One cries because one is sad. For exampl
 
 	-- The Big Bang Theory - The Gorilla Experiment [3.10]
 %
+[Penny starts her first Physics class & that with Sheldon so she can take an interest in Leonard's job. Sheldon gives an insight of her in an ancient Greek city]
 Sheldon: It's a warm summer evening, circa 600 BC. You've finished your shopping at the local market, or agora... and you look up at the night sky. There you notice some of the stars seem to move, so you name them planetes or wanderer.
 [Penny puts her hand up]
 Sheldon: Yes, Penny.
@@ -960,7 +961,7 @@ Dr. Beverly Hofstadter: Speaking of warm feelings, come here! (kisses Sheldon sq
 
 	-- The Big Bang Theory - The Maternal Congruence [3.11]
 %
-'[Howard enters Leonard's laboratory to mock him for his unsuccessful date the previous evening]
+[Howard enters Leonard's laboratory to mock him for his unsuccessful date the previous evening]
 Howard: Hey.
 Leonard: [handing him a pair of glasses] Laser.
 Howard: Had a great night last night. I don't like to kiss and tell, but... [puts glasses on] somebody made it to eighth base!
@@ -1051,7 +1052,7 @@ Sheldon: I don't know, two, three days? Not important. I don't need sleep. I nee
 Penny: [aside to Leonard] The toad of truth? Is that a physics thing?
 Leonard: No, that's a crazy thing.
 Bernadette: [making her way to Sheldon] Okay, Sheldon, what happens to our neuro-receptors when we don't get enough REM sleep?
-Sheldon: [looks at Bernadette] They lose their sensitivity to seratonin and norepinephrine.
+Sheldon: [looks at Bernadette] They lose their sensitivity to serotonin and norepinephrine.
 Bernadette: Which leads to...?
 Sheldon: Impaired cognitive function.
 Bernadette: Right. [firmly, pointing at his bedroom] So march in there, brush your teeth and go to bed!
@@ -1059,7 +1060,7 @@ Sheldon: [in a childish manner] ...But I don't wanna go to bed.
 Bernadette: [firmly] I'm gonna count to three. One...
 Sheldon: [exasperated] Oh, alright! [leaves]
 Leonard: [shocked] That was amazing how you handled him.
-Bernadette: I know how to deal with stubborn children. My mother used to run an illegal daycare center in our basement.
+Bernadette: I know how to deal with stubborn children. My mother used to run an illegal day-care center in our basement.
 
 	-- The Big Bang Theory - The Einstein Approximation [3.14]
 %
@@ -3804,7 +3805,7 @@ Sheldon: Thank you. Do either of you know Beyoncé? I’d love her to get behind
 
 	-- The Big Bang Theory - The Communication Deterioration [8.21]
 %
-Penny: [knock, knock, knock] Sheldon! [knock, knock, knock] Sheldon! [knock, knock, knock] Sheldon!
+Penny: [knock, knock, knock] Sheldon! [knock, knock, knock] Sheldon! [knock, knock, knock] Sheldon! [Sheldon opens the door, smirking, and she grins at him]
 Sheldon: I bet that started off as a joke, but by the third one, you realized there was something strangely enjoyable about it.
 Penny: Yeah, I kind of want to do it again.
 Sheldon: I don't recommend it, you'll be doing it the rest of your life.
@@ -4023,4 +4024,99 @@ Sheldon: Stop selling it kid, you won.
 Howard: Too busy to call? He wasn't too busy to binge-watch Hot in Cleveland with my Hulu password!
 
 	-- The Big Bang Theory - The Sales Call Sublimation [9.12]
+%
+Penny: Hey, so I saw a movie trailer the other day, How could Batman possibly fight Superman? Isn't that dumb!
+Bernadette: Maybe he uses kryptonite.
+Emily: Well, Batman's got a lot of money; maybe he builds a suit that can do everything Superman can do.
+Penny: No, no, no, no, no, I've seen that movie. It's called Iron Man.
+[the guys are stupefied]
+Leonard: What is happening?
+Howard: I don't know.
+Raj: But it's beautiful.
+Penny: How's Ben Affleck as Batman?
+Emily: Oh, he was great in Shakespeare in Love.
+Penny: Ooh, we should watch that next girls' night.
+Bernadette: We could do a double feature with the Leonardo DiCaprio Romeo and Juliet.
+Penny: Oh, I love me some Leo.
+Leonard: And it's gone.
+
+	-- The Big Bang Theory - The Empathy Optimization [9.13]
+%
+Amy: Hi Sheldon, what's new?
+Sheldon: My friends are jerks and I'm mad at all of them.
+Amy: I said "what's new", but sure...
+
+	-- The Big Bang Theory - The Empathy Optimization [9.13]
+%
+Penny: You know, the last time I got a handwritten letter was from someone who told me I parked like a blind person.
+Leonard: That someone has a name.
+Sheldon: Thank you.
+
+	-- The Big Bang Theory - The Meemaw Materialization [9.14]
+%
+Meemaw: No wine for me. Sheldon's bringing me my whiskey.
+Sheldon: There you go, Meemaw. I made it just how you like it. A lot, in a glass.
+
+	-- The Big Bang Theory - The Meemaw Materialization [9.14]
+%
+Raj: You say it like it's easy! Has any one of you ever broken up with anyone?
+Howard: No.
+Leonard: Not really.
+Sheldon: You know, once I ordered an Uber by accident, and I just got in and went somewhere.
+
+	-- The Big Bang Theory - The Valentino Submergence [9.15]
+%
+Howard: Should we name him?
+Bernadette: It is Valentine's Day. How about Valentino?
+Howard: Nice. A classic rabbit name. Peter Rabbit, Roger Rabbit. Valentino Wolowitz Rabbit. Oh, look at all that chest hair and overbite. Of course you're a Wolowitz.
+
+	-- The Big Bang Theory - The Valentino Submergence [9.15]
+%
+Leonard: What's going on?
+Howard: I'm going to be a father.
+Leonard: Congratulations!
+Sheldon: Oh no!
+Leonard: Why "Oh no"?
+Sheldon: Because this changes everything! You know, what about comic book night? What about playing games together? What about our trips to Disneyland? How can we do those things with a child around?
+Leonard: Relax, there's room for two babies in this group.
+Sheldon: O dear luck, Penny's pregnant too?
+Leonard: You're the other baby!
+Sheldon: Oh really? Well, would a baby have to shave once every eleven days?
+Leonard: Would an adult refuse to eat his Graham crackers because one of them was broken?
+Sheldon: I guess we'll call this a draw.
+
+	-- The Big Bang Theory - The Positive Negative Reaction [9.16]
+%
+Howard: Okay, how about this for an invention? Slightly bigger cocktail umbrellas?
+Leonard: How is that a new invention?
+Howard: I don't know. All Apple does is change the size of things and we keep buying them.
+
+	-- The Big Bang Theory - The Positive Negative Reaction [9.16]
+%
+Howard: Really? You're ahead of Bale? The man who personified the words, "I'm Batman"?
+Adam West: I never had to say I'm Batman. I showed up. People knew I was Batman. Everywhere I went. On the TV show, mall openings, Julie Newmar's bungalow.
+Leonard: I'm sold- you're ahead of Bale.
+Adam West: There's another reason I should be higher on the list. All those other guys had muscles built into their costumes. All I had in my Batsuit was 100%, grade-A West.
+
+	-- The Big Bang Theory - The Celebration Experimentation [9.17]
+%
+Penny: All right, what about music?
+Sheldon: I enjoy marching bands and Tibetan throat music.
+Penny: No music it is.
+
+	-- The Big Bang Theory - The Celebration Experimentation [9.17]
+%
+[Howard, Leonard and Sheldon are waiting at the patenting office]
+Howard: Okay, I've got to ask, why are you wearing a bow-tie?
+Sheldon: I've never applied for a patent before. I wanted to make a good impression.
+Howard: Is the impression that your first name is Peewee?
+[Leonard laughs]
+Sheldon: Yeah, well you're an engineer. End of joke. Burn!
+
+	-- The Big Bang Theory - The Application Deterioration [9.18]
+%
+Penny: Hang on, what if Sheldon had no choice but to be respectful?
+Leonard: Is there a switch on the back of his neck we don't know about?
+
+	-- The Big Bang Theory - The Application Deterioration [9.18]
 %
